@@ -1,0 +1,82 @@
+﻿生成启动时间为 2020/4/6 14:14:57。
+     1>项目“C:\Home\workspace\Moba\moba_game_server\moba_server\build\proj.win32\luac\luac.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\..\3rd\lua-5.3.4\src\lapi.c" "..\..\..\3rd\lua-5.3.4\src\lauxlib.c" "..\..\..\3rd\lua-5.3.4\src\lbaselib.c" "..\..\..\3rd\lua-5.3.4\src\lbitlib.c" "..\..\..\3rd\lua-5.3.4\src\lcode.c" "..\..\..\3rd\lua-5.3.4\src\lcorolib.c" "..\..\..\3rd\lua-5.3.4\src\lctype.c" "..\..\..\3rd\lua-5.3.4\src\ldblib.c" "..\..\..\3rd\lua-5.3.4\src\ldebug.c" "..\..\..\3rd\lua-5.3.4\src\ldo.c" "..\..\..\3rd\lua-5.3.4\src\ldump.c" "..\..\..\3rd\lua-5.3.4\src\lfunc.c" "..\..\..\3rd\lua-5.3.4\src\lgc.c" "..\..\..\3rd\lua-5.3.4\src\linit.c" "..\..\..\3rd\lua-5.3.4\src\liolib.c" "..\..\..\3rd\lua-5.3.4\src\llex.c" "..\..\..\3rd\lua-5.3.4\src\lmathlib.c" "..\..\..\3rd\lua-5.3.4\src\lmem.c" "..\..\..\3rd\lua-5.3.4\src\loadlib.c" "..\..\..\3rd\lua-5.3.4\src\lobject.c" "..\..\..\3rd\lua-5.3.4\src\lopcodes.c" "..\..\..\3rd\lua-5.3.4\src\loslib.c" "..\..\..\3rd\lua-5.3.4\src\lparser.c" "..\..\..\3rd\lua-5.3.4\src\lstate.c" "..\..\..\3rd\lua-5.3.4\src\lstring.c" "..\..\..\3rd\lua-5.3.4\src\lstrlib.c" "..\..\..\3rd\lua-5.3.4\src\ltable.c" "..\..\..\3rd\lua-5.3.4\src\ltablib.c" "..\..\..\3rd\lua-5.3.4\src\ltm.c" "..\..\..\3rd\lua-5.3.4\src\luac.c" "..\..\..\3rd\lua-5.3.4\src\lundump.c" "..\..\..\3rd\lua-5.3.4\src\lutf8lib.c" "..\..\..\3rd\lua-5.3.4\src\lvm.c" "..\..\..\3rd\lua-5.3.4\src\lzio.c"
+         lzio.c
+         lvm.c
+         lutf8lib.c
+         lundump.c
+         luac.c
+         ltm.c
+         ltablib.c
+         ltable.c
+         lstrlib.c
+         lstring.c
+         lstate.c
+         lparser.c
+         loslib.c
+         lopcodes.c
+         lobject.c
+         loadlib.c
+         lmem.c
+         lmathlib.c
+         llex.c
+         liolib.c
+         正在生成代码...
+         正在编译...
+         linit.c
+         lgc.c
+         lfunc.c
+         ldump.c
+         ldo.c
+         ldebug.c
+         ldblib.c
+         lctype.c
+         lcorolib.c
+         lcode.c
+         lbitlib.c
+         lbaselib.c
+         lauxlib.c
+         lapi.c
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Home\workspace\Moba\moba_game_server\moba_server\build\proj.win32\luac\Debug\luac.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Home\workspace\Moba\moba_game_server\moba_server\build\proj.win32\luac\Debug\luac.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Home\workspace\Moba\moba_game_server\moba_server\build\proj.win32\luac\Debug\luac.lib" /MACHINE:X86 Debug\lapi.obj
+         Debug\lauxlib.obj
+         Debug\lbaselib.obj
+         Debug\lbitlib.obj
+         Debug\lcode.obj
+         Debug\lcorolib.obj
+         Debug\lctype.obj
+         Debug\ldblib.obj
+         Debug\ldebug.obj
+         Debug\ldo.obj
+         Debug\ldump.obj
+         Debug\lfunc.obj
+         Debug\lgc.obj
+         Debug\linit.obj
+         Debug\liolib.obj
+         Debug\llex.obj
+         Debug\lmathlib.obj
+         Debug\lmem.obj
+         Debug\loadlib.obj
+         Debug\lobject.obj
+         Debug\lopcodes.obj
+         Debug\loslib.obj
+         Debug\lparser.obj
+         Debug\lstate.obj
+         Debug\lstring.obj
+         Debug\lstrlib.obj
+         Debug\ltable.obj
+         Debug\ltablib.obj
+         Debug\ltm.obj
+         Debug\luac.obj
+         Debug\lundump.obj
+         Debug\lutf8lib.obj
+         Debug\lvm.obj
+         Debug\lzio.obj
+         luac.vcxproj -> C:\Home\workspace\Moba\moba_game_server\moba_server\build\proj.win32\luac\Debug\luac.exe
+     1>已完成生成项目“C:\Home\workspace\Moba\moba_game_server\moba_server\build\proj.win32\luac\luac.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.34
